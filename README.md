@@ -6,6 +6,8 @@
 How to Run:
 
 - Clone this repo to your computer.
+- Run ```composer install``` to install dependencies
+- Run ```cp .env.example .env``` to create a default config
 - Run ```php artisan migrate``` to use DB structure.
 - Run ```php artisan db:seed``` to fill DB with test data.
 - Run ```php artisan serv```.
