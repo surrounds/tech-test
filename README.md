@@ -3,6 +3,11 @@
 
 ## Test Application
 
+Requirements:
+- PHP 8.2
+- Command Line
+
+
 How to Run:
 
 - Clone this repo to your computer.
